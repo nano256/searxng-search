@@ -1,6 +1,6 @@
 ---
 name: searxng-search
-description:
+description: >
   Search the web via a self-hosted SearXNG instance. Provides privacy-respecting
   metasearch with category filtering, time range, engine selection, pagination,
   and structured JSON output. Use this skill whenever the user wants to search
